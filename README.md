@@ -1,6 +1,6 @@
 # pig-game
 Pig game 
-This is a tow player game in which players get to roll dice.
+This is a two player game in which players get to roll dice.
 THE RULES ARE:
 
 #Each roll is added to the players round score.
